@@ -1,0 +1,5 @@
+print(1 + 10)
+print(1.3 + 5.6)
+print(True)
+print(False)
+print("Olá mundo!")
